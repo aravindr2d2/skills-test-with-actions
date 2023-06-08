@@ -1,4 +1,6 @@
 <header>
+  
+[![Step 5, Merge your pull request](https://github.com/aravindr2d2/skills-test-with-actions/actions/workflows/5-merge-your-pull-request.yml/badge.svg)](https://github.com/aravindr2d2/skills-test-with-actions/actions/workflows/5-merge-your-pull-request.yml)
 
 <!--
   <<< Author notes: Course header >>>
